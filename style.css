@@ -1,16 +1,26 @@
-
 body {
     font-family: sans-serif;
+    background-image:linear-gradient(to right, #4ca1af,#c4e0e5);
 }
 
 header {
     background-color: white;
     padding: 5px;
+    background-image:linear-gradient(to right, #4ca1af,#c4e0e5);
+}
+
+h2 {
+    color:black;
 }
 
 .logo{
-    width: 209px;
-    height: 167px;
+    width: 1000px;
+    height: 300px;
+}
+
+main{
+    background-color:white;
+
 }
 
 nav{
@@ -19,6 +29,11 @@ nav{
    padding: 20px 0px;
    background-color: red;
    
+}
+
+div{
+    background-color: rgb(255, 255, 255);
+color: red;
 }
 
 nav a {
@@ -40,12 +55,17 @@ h1 {
     text-align: center;
 }
 
+h2{
+    text-align:center;
+}
 
 footer {
     background-color: white;
     padding: 10px;
     margin-top: 20px;
+    background-image:linear-gradient(to right, #4ca1af,#c4e0e5);
 }
+
 
 footer p {
     background-color: white;
